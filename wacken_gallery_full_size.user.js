@@ -4,6 +4,7 @@
 // @version      1.0.0
 // @description  Enlarges images and thumbnails in the Wacken Gallery
 // @author       Buddy Jonte
+// @supportURL   https://github.com/jpjonte/wacken-gallery-userscript
 // @match        http://gallery.wacken.com/index.php*
 // @match        http://gallery.wacken.com/thumbnails.php*
 // @match        http://gallery.wacken.com/displayimage.php*
